@@ -18,7 +18,8 @@ A side section listing the benefits of search engine optimization
 
 ## Screenshot
 
-![screenshot of website] (C:\Users\hansd\Desktop\bootcamp\UNC-VIRT-FSF-PT-05-2023-U-LOLC\01-HTML-Git-CSS\02-Challenge\Assets\01-html-css-git-homework-demo.png)
+![image](https://github.com/Hans-Doderlein/Week-1-Challenge/assets/132940852/29daad60-e84f-4d9a-8c92-5885842f1142)
+
 
 ## Installation
 
