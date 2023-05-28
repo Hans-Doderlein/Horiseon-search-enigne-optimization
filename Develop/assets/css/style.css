@@ -27,7 +27,7 @@ body {
   color: #d9dcd6;
 }
 
-.header div {
+.header nav {
   padding-top: 15px;
   margin-right: 20px;
   float: right;
@@ -35,10 +35,11 @@ body {
   font-size: 20px;
 }
 
-.header div ul li {
+.main-nav li {
   display: inline-block;
   margin-left: 25px;
 }
+
 /* color of header links, removes underline */
 a {
   color: #ffffff;
@@ -76,9 +77,11 @@ p {
   display: inline-block;
   margin-left: 20px;
 }
+
 /* adds css to benefit section container */
 .benefits {
   margin-right: 20px;
+  margin-bottom: 20px;
   padding: 20px;
   clear: both;
   float: right;
@@ -106,6 +109,7 @@ p {
   margin: 10px auto;
   max-width: 150px;
 }
+
 /* background color, text color, font style, of info sections */
 .InfoSections {
   margin-bottom: 20px;
@@ -124,12 +128,4 @@ p {
 h2 {
   margin-bottom: 20px;
   font-size: 36px;
-}
-
-.footer {
-  padding: 30px;
-  clear: both;
-  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
-    "Lucida Sans", Arial, sans-serif;
-  text-align: center;
 }
